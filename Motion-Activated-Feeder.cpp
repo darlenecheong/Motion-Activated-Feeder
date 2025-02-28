@@ -28,7 +28,7 @@ void loop() {
 
   // If motion is detected by the PIR sensor (e.g., nose poke by the mouse)
   if (motionDetected == HIGH) {
-    Serial.println("Motion detected, releasing pellet!");
+    Serial.println("Motion detected, releasing pellet.");
 
     // Open the feeder by moving the servo to 90 degrees to release the pellet
     feederServo.write(90);  
