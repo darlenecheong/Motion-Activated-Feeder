@@ -3,10 +3,7 @@ This project is a C++ code for an Arduino Uno board, functioning to control an a
 <br><br>
 
 ## Context
-As a Neurobiology Researcher at Columbia University, I contributed to an experiment analyzing hunger-driven behavior in mice. The study involved training control and experimental mice to obtain food pellets by poking a motion sensor in a behavioral chamber. Experimental mice received neural stimulation (via fiber photometry) during the task to assess its effect on feeding behavior.
-
-I programmed an Arduino Uno to automate food pellet release based on sensor input. The system:
-
+As a Neurobiology Researcher at Columbia University, I contributed to an experiment analyzing hunger-driven behavior in mice. The study involved training control and experimental mice to obtain food pellets by poking a motion sensor in a behavioral chamber. Experimental mice received neural stimulation (via fiber photometry) during the task to assess its effect on feeding behavior. I programmed an Arduino Uno to automate food pellet release based on sensor input. The system:
 - Detected motion when a mouse interacted with the sensor.
 - Triggered pellet release upon valid sensor activation.
 - Prevented unintended activations by enforcing behavioral constraints.
