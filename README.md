@@ -19,5 +19,5 @@ However, the system had limitations. False activations occasionally occurred due
 <sup><sub>Word Count: 141 words</sub></sup>
 <br><br>
 
-## Languages Used
+## Language Used
 - **C++**
